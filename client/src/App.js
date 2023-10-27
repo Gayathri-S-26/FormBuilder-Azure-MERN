@@ -10,8 +10,8 @@ const App = () => {
     <div>
       <h1 style={mystyle}>Form Builder</h1>
       <FormBuilder />
-      <h1 style={mystyle}>Form List</h1>
-      <FormList />
+      <a href="#hashLink"><h1 style={mystyle}>Form List</h1></a>
+      <p id="hashLink"><FormList /></p>
     </div>
   );
 };
