@@ -26,7 +26,7 @@ const FormBuilder = () => {
     axios.post('https://formbuilder-azure.azurewebsites.net/forms', { title, elements })
       .then((response) => {
         console.log(response.data);
-        alert("Form Saved Successfully");
+        alert("Form Saved Successfully. Refresh the page to see the saved form in the list.");
       })
       .catch((error) => {
         console.error('Error creating form:', error);
