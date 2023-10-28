@@ -14,7 +14,7 @@ Output Demo Link: https://drive.google.com/file/d/1gEvxpVLwZTwTRxrgwIr6hZ5T4IQgY
 
 Output Screenshots:
 
-![plot](C:/Users/Gayathri/Desktop/Screenshot 2023-10-28 191013)
+![plot](C:/Users/Gayathri/Desktop/Screenshot 2023-10-28 191013.jpg)
 
 
 
