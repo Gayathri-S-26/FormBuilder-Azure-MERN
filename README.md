@@ -26,6 +26,9 @@ Output Screenshots:
 
 ![Screenshot 2023-10-28 193636](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/f0f8e658-bfaa-4ee0-acea-093db1e60b51)
 
+![WhatsApp Image 2023-10-28 at 7 45 39 PM](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/81a0c84f-22ce-4dee-9c72-914062c267a9)
+
+
 
 
 
