@@ -14,7 +14,21 @@ Output Demo Link: https://drive.google.com/file/d/1gEvxpVLwZTwTRxrgwIr6hZ5T4IQgY
 
 Output Screenshots:
 
-![plot](C:/Users/Gayathri/Desktop/Screenshot 2023-10-28 191013.jpg)
+![Screenshot 2023-10-28 191013](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/3d5e2a61-7cb4-4884-b768-677feffdb1a9)
+
+![Screenshot 2023-10-28 193244](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/26da53ec-c801-4bae-8e2b-e3af9b7fb613)
+
+![Screenshot 2023-10-28 193558](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/b3b2cd00-842d-4a79-b0c8-85324e15697c)
+
+![Screenshot 2023-10-28 193911](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/ad988316-8738-4d14-951b-3113367e7344)
+
+![Screenshot 2023-10-28 191749](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/d67d757e-fa4c-4454-b00f-19abb072ae88)
+
+![Screenshot 2023-10-28 193636](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/f0f8e658-bfaa-4ee0-acea-093db1e60b51)
+
+
+
+
 
 
 
