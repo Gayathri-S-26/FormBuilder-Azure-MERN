@@ -13,7 +13,10 @@ Website Link: https://formbuilder-azure.azurewebsites.net/
 Output Demo Link: https://drive.google.com/file/d/1gEvxpVLwZTwTRxrgwIr6hZ5T4IQgYMmS/view?usp=drive_link
 
 Output Screenshots:
-![Uploading Screenshot 2023-10-28 191013.jpg…]()
+
+![plot](C:/Users/Gayathri/Desktop/Screenshot 2023-10-28 191013)
+
+
 
 
 
