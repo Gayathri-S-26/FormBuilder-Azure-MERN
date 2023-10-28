@@ -20,11 +20,17 @@ Output Screenshots:
 
 ![Screenshot 2023-10-28 193558](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/b3b2cd00-842d-4a79-b0c8-85324e15697c)
 
+Azure Monitor Alert - Push Notification to Email and Azure App
+
 ![Screenshot 2023-10-28 193911](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/ad988316-8738-4d14-951b-3113367e7344)
+
+Email Notification
 
 ![Screenshot 2023-10-28 191749](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/d67d757e-fa4c-4454-b00f-19abb072ae88)
 
 ![Screenshot 2023-10-28 193636](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/f0f8e658-bfaa-4ee0-acea-093db1e60b51)
+
+Azure App Notification
 
 ![WhatsApp Image 2023-10-28 at 7 45 39 PM](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/81a0c84f-22ce-4dee-9c72-914062c267a9)
 
