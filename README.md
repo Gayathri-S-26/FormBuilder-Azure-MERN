@@ -14,13 +14,15 @@ Output Demo Link: https://drive.google.com/file/d/1gEvxpVLwZTwTRxrgwIr6hZ5T4IQgY
 
 Output Screenshots:
 
+Azure App Service - Form Builder Web App
+
 ![Screenshot 2023-10-28 191013](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/3d5e2a61-7cb4-4884-b768-677feffdb1a9)
 
 ![Screenshot 2023-10-28 193244](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/26da53ec-c801-4bae-8e2b-e3af9b7fb613)
 
 ![Screenshot 2023-10-28 193558](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/b3b2cd00-842d-4a79-b0c8-85324e15697c)
 
-Azure Monitor Alert - Push Notification to Email and Azure App
+Azure Monitor Service - Push Alert Notification to Email and Azure App whenever the Form Builder web app service stops
 
 ![Screenshot 2023-10-28 193911](https://github.com/Gayathri-S-26/FormBuilder-Azure-MERN/assets/85394882/ad988316-8738-4d14-951b-3113367e7344)
 
